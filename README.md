@@ -40,5 +40,3 @@ This repository contains my **Java practice programs** focused on **Object-Orien
 ✨ Keep learning, keep practicing, and master OOPs in Java 🚀
 
 ---
-
-Do you also want me to add a **table of contents with clickable links** (so visitors can directly jump to `Encapsulation`, `Inheritance`, etc.)? That would make your README look even more professional.
